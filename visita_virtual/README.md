@@ -1,0 +1,1 @@
+diretório para armazenar a visita virtual.Ou seja, transformar a modelagem em uma experiência interativa, onde o usuário pode caminhar pelo ambiente, como em um jogo.
