@@ -1,0 +1,13 @@
+*.fbm/
+# pastas
+dist/
+build/
+# Outros 
+*.log
+.vscode/
+
+#cache
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
